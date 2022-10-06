@@ -1,4 +1,4 @@
-### Olá!!! Eu sou Gerson Junior, desenvolvedor científico júnior na ESSS!
+### Olá!!! Eu sou Gerson Junior, engenheiro químico e desenvolvedor científico!
 
 <div align="left">
   <a href="https://github.com/gersonfsjunior">
